@@ -2,7 +2,7 @@
 
 Aplicación móvil para registrar y analizar los ingresos y gastos de un pequeño restaurante de comidas rápidas que opera los fines de semana y días festivos.
 
-**Descripción**
+## **Descripción**
 
 Zera'sFood permite llevar un control sencillo de la economía del negocio, registrando tanto las ventas como los gastos diarios (insumos, servicios, otros). La app organiza la información por fechas y categorías, facilitando la revisión del historial financiero y ayudando a identificar tendencias de ingresos y costos.
 
