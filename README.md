@@ -14,11 +14,11 @@ Ofrecer una vista rápida del balance de cada jornada.
 
 Permitir analizar el comportamiento del negocio en fines de semana y festivos.
 
-**Tecnologías**
+## **Tecnologías**
 
 El proyecto está desarrollado con Flutter y utiliza una base de datos local (por ejemplo, sqflite) para almacenar la información directamente en el dispositivo, lo que permite usar la app sin conexión.
 
-**Uso básico**
+## **Uso básico**
 
 1.Clonar o descargar el repositorio.
 
