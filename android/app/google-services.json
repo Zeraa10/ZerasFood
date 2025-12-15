@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "961998658534",
+    "project_id": "zerasfood",
+    "storage_bucket": "zerasfood.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961998658534:android:778c454265b704b060d427",
+        "android_client_info": {
+          "package_name": "com.daniel.zerasfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJTdLEAVwKmOy3Vie_WBNjD2Lf3_YYlAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961998658534:android:b7dce2570bf473e460d427",
+        "android_client_info": {
+          "package_name": "com.daniel.zerasfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJTdLEAVwKmOy3Vie_WBNjD2Lf3_YYlAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
